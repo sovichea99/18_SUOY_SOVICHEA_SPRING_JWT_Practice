@@ -1,4 +1,4 @@
-package org.example._8_suoy_sovichea_spring_jwt_practice;
+package org.example._18_suoy_sovichea_spring_jwt_practice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
